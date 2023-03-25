@@ -1,0 +1,14 @@
+.reset
+{
+    font-size: 1.5rem;
+    background-color: #F7DB6A;
+    display: flex;
+    flex-direction: row;
+    width: 7.5rem;
+    margin:20px auto;
+    height: 3rem;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}

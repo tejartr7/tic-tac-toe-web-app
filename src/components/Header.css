@@ -1,0 +1,14 @@
+.body
+{
+    margin: 0 0 0 0;
+    align-items: center;
+    background-color: #191825;
+}
+.navBar{
+    background-color: #191825;
+    text-align: center;
+    color: yellow;
+    font-size: 4rem;
+    border: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
