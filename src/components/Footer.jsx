@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <div className='contacts'>
          <div class="footer">
-             <a target="_blank" href="https://github.com/tejartr7?tab=repositories" className='rtr'>Made by RTR 🔥🔥(click here for more details)</a>
+             <a target="_blank" href="https://twitter.com/raghu_rtr" className='rtr'>Made by RTR 🔥🔥</a>
           </div>
     </div>
   );
